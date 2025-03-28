@@ -1,4 +1,4 @@
-#Github: 
+#Github: https://github.com/Tseburek/Pythonzx
 import pygame, random
 
 pygame.init()
